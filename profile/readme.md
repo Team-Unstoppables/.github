@@ -9,6 +9,9 @@ As you will be aware that white roof can make a huge difference in your home tem
 ## Our Solution
 Stay Tuned, We will release our solution on 26/11/2022. 
 
+## Technical Stack
+Vue.js, Flask 
+
 ## Team Members
 Ashish Papanai, Utkarsha Ramchandra Nehe, Bah Aly Dembele, Yehadji Alexis, Anushka Agarwal, Rejoice Tiwahlani Banda
 
