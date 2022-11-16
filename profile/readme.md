@@ -10,7 +10,10 @@ As you will be aware that white roof can make a huge difference in your home tem
 Stay Tuned, We will release our solution on 26/11/2022. 
 
 ## Technical Stack
-Vue.js, Flask 
+Interface: Vue.js
+Back-End: Flask
+AI: PyTorch
+DIP: OpenCV, Scikit-Image
 
 ## Team Members
 Ashish Papanai, Utkarsha Ramchandra Nehe, Bah Aly Dembele, Yehadji Alexis, Anushka Agarwal, Rejoice Tiwahlani Banda
